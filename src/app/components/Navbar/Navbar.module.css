@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 5rem;
+}
+
+.navLinks {
+  display: flex;
+  gap: 1rem;
+  a {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+  }
+}

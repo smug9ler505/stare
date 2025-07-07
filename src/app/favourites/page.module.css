@@ -1,0 +1,11 @@
+.favs {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+.favs2 {
+  margin-top: 1em;
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
